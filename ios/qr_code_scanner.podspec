@@ -1,5 +1,6 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
+# added source
 #
 
 Pod::Spec.new do |s|

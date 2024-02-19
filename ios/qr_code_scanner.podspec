@@ -13,7 +13,7 @@ A new Flutter project.
   s.homepage         = 'https://github.com/juliuscanute/qr_code_scanner'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'juliuscanute[*]touchcapture.net' }
-  s.source           = { :git => 'https://github.com/vitya87ua/MTBBarcodeScannervdnskj' }
+  s.source           = { :podspec => 'https://github.com/vitya87ua/MTBBarcodeScannervdnskj' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
